@@ -1,49 +1,66 @@
-# Welcome to My Official Website
+# Dinesh Ghimire
 
-## About Me
+## Contact Information
+- **Address:** Birendra Chowk, Kadaghari
+- **Phone:** 9862657384
+- **Email:** developer.dinesh1@gmail.com
+- **Date of Birth:** Jan. 17, 1994
 
-I am a passionate developer with expertise in PHP, JavaScript, Dart, HTML/CSS, and various frameworks. My experience includes working with:
+## Objective
+Experienced in creating web-based applications and enthusiastic about both DevOps and mobile app development. Combining practical knowledge in web applications with a keen interest in streamlining processes and contributing to the dynamic field of mobile app development.
 
-- **PHP Frameworks**: Laravel, Codeigniter, WordPress, Magento, Shopify
-- **JavaScript Frameworks**: React, Node.js
+## Work Experience
 
-## My Skills
+### Software Developer (January 2023 - Present)
+Retail Care [Hitechvalley], Imadol
+- Implemented Stripe and integrated Xero for a franchise management system.
+- Developed ecommerce system on PHP.
+- Contributed to Shopify projects, enhancing e-commerce solutions using Shopify API.
+- Managed Magento2 projects, resolving issues.
+- Developed efficient backend systems using Laravel for various purposes including inventory management and time slot booking.
 
-- Frontend Development: HTML, CSS, JavaScript, React
-- Backend Development: PHP (Laravel, Codeigniter), Node.js
-- Content Management Systems (CMS): WordPress, Magento, Shopify
-- Version Control: Git
+### PHP Developer (March 2019 - January 2023)
+Self Employed, TIkathali
+- Developed web applications using Core PHP and WordPress.
+- Proficient in PHP and Laravel frameworks.
+- Skilled in version control systems like SVN and GIT.
+- Conducted client requirement analysis and project management.
+- Specialized in WordPress plugin and theme development.
 
-## Contact Me
+### Web Developer (September 2017 - March 2019)
+Mirrorgrid Pvt. Ltd., Jadibuti
+- Implemented innovative ideas in software and web development.
+- Provided exceptional client support and effective communication.
+- Expertise in creating themes and plugins for dynamic web solutions.
+- Efficiently managed tasks, assignments, and overall project handling.
 
-Feel free to reach out to me for any inquiries or collaborations:
+### Wordpress Developer (January 2017 - October 2017)
+Rigorous Web, Basbari
+- Developed websites using WordPress and integrated various APIs.
+- Proficient in WooCommerce development and addon creation.
+- Accomplished in project estimation, planning, and successful project delivery.
 
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourprofile)
+## Education
+- **Bachelor of Business Studies (BBS)**, Birendra Namuna Campus, Tribhuvan University (TU), Nepal (May 2015)
 
-## Project Setup
+## Job Preference
+- **Looking for:** Senior Level
+- **Job Categories:** IT & Telecommunication
+- **Preferred Industries:** Information / Computer / Technology
+- **Preferred Job Title:** Software Developer
+- **Available for:** Full Time, Part Time, Contract, Freelance
 
-### Prerequisites
+## Language Proficiency
+- **Nepali:** Reading (4), Speaking (4), Writing (4), Listening (4)
+- **Hindi:** Reading (3), Speaking (3), Writing (3), Listening (3)
+- **English:** Reading (3), Speaking (3), Writing (3), Listening (3)
 
-- Node.js
-- npm or yarn
+## Specializations and Skills
+- **Specializations:** Software Development
+- **Skills:** PHP, JavaScript, Wordpress, Laravel Framework
 
-### Getting Started
-
-1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `npm install` or `yarn install`
-3. Start the development server: `npm start`
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## Learn More
-
-You can learn more about Create React App and React.js in the following resources:
-
-- [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-- [React documentation](https://reactjs.org/docs/getting-started.html)
-
-## Acknowledgements
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Personal Information
+- **Gender:** Male
+- **Current Address:** Birendra Chowk, Kadaghari
+- **Permanent Address:** Chandragadhi, Jhapa
+- **Marital Status:** Unmarried

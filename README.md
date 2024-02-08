@@ -14,9 +14,7 @@ Experienced in creating web-based applications and enthusiastic about both DevOp
 ### Software Developer (January 2023 - Present)
 Retail Care [Hitechvalley], Imadol
 - Implemented Stripe and integrated Xero for a franchise management system.
-- Developed ecommerce system on PHP.
 - Contributed to Shopify projects, enhancing e-commerce solutions using Shopify API.
-- Managed Magento2 projects, resolving issues.
 - Developed efficient backend systems using Laravel for various purposes including inventory management and time slot booking.
 
 ### PHP Developer (March 2019 - January 2023)
@@ -50,17 +48,10 @@ Rigorous Web, Basbari
 - **Preferred Job Title:** Software Developer
 - **Available for:** Full Time, Part Time, Contract, Freelance
 
-## Language Proficiency
-- **Nepali:** Reading (4), Speaking (4), Writing (4), Listening (4)
-- **Hindi:** Reading (3), Speaking (3), Writing (3), Listening (3)
-- **English:** Reading (3), Speaking (3), Writing (3), Listening (3)
-
 ## Specializations and Skills
 - **Specializations:** Software Development
-- **Skills:** PHP, JavaScript, Wordpress, Laravel Framework
+- **Skills:** PHP, JavaScript, Wordpress, Laravel
 
 ## Personal Information
-- **Gender:** Male
 - **Current Address:** Birendra Chowk, Kadaghari
 - **Permanent Address:** Chandragadhi, Jhapa
-- **Marital Status:** Unmarried

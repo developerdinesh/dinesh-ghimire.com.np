@@ -10,6 +10,7 @@ const App: React.FC = () => {
   return (
     <Router>
       <div className="App">
+        <h1>Check</h1>
         <Header />
         <main>
           <Routes />

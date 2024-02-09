@@ -1,5 +1,3 @@
-// src/App.tsx
-
 import React from 'react';
 import Routes from './routes/Routes';
 import Header from './components/common/Header/Header';

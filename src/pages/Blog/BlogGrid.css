@@ -1,0 +1,37 @@
+.blog-section {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .blog-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-section p {
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  .blog-section ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
+  
+  .blog-section li {
+    margin-bottom: 5px;
+  }
+  
+  .blog-section h3 {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-section a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }

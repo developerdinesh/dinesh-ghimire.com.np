@@ -1,11 +1,11 @@
-import React from 'react';
-
-const Footer: React.FC = () => {
+import Navigation from './Navigation';
+import './Header.css';
+const Header = () => {
   return (
-    <div>
-      <p>This is header content.</p>
-    </div>
+    <header id="header">
+      <Navigation/>
+    </header>
   );
 };
 
-export default Footer;
+export default Header;

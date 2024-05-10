@@ -74,5 +74,5 @@ Web Bank Nepal, Anamnagar
 - **Skills:** PHP, Laravel, JavaScript, React, Flutter
 
 ## Personal Information
-- **Current Address:** Birendra Chowk, Kadaghari
+- **Current Address:** ABC tole, near imadol swimming pool.
 - **Permanent Address:** Chandragadhi, Jhapa

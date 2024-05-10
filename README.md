@@ -2,7 +2,7 @@
 
 ## Contact Information
 - **Address:** Birendra Chowk, Kadaghari
-- **Phone:** 9862657384
+- **Phone:** +977 9862657384
 - **Email:** developer.dinesh1@gmail.com
 - **Date of Birth:** Jan. 17, 1994
 
@@ -38,19 +38,40 @@ Rigorous Web, Basbari
 - Proficient in WooCommerce development and addon creation.
 - Accomplished in project estimation, planning, and successful project delivery.
 
+### FullStack Developer (September 2015 - January 2017)
+ebPearls, Kupandol
+- Various PHP/WordPress Websites
+- Project Management tools/techniques
+- Frontend Technologies(Html, css, scss, javascript, jQuery)
+
+### PHP Developer
+Live with dreams, New Baneshwor
+- Various WordPress Websites
+- Worked on Core PHP/Laravel/CI
+
+### Frontend Developer
+TQID, Tripureshwor Kathmandu
+- CSS/SCSS/LESS/Boosstrap
+- Worked on JavaScript/jQuery
+
+### PHP Developer
+Web Bank Nepal, Anamnagar
+- Develop custom cms for websites
+- Develop Various core php website
+- Implements frontend technologies (html/css/js)
+
 ## Education
-- **Bachelor of Business Studies (BBS)**, Birendra Namuna Campus, Tribhuvan University (TU), Nepal (May 2015)
+- **Bachelor of Business Studies (BBS)**, Birendra Namuna Campus, Tribhuvan University (TU), Nepal 
 
 ## Job Preference
-- **Looking for:** Senior Level
 - **Job Categories:** IT & Telecommunication
 - **Preferred Industries:** Information / Computer / Technology
 - **Preferred Job Title:** Software Developer
-- **Available for:** Full Time, Part Time, Contract, Freelance
+- **Available for:** Part Time, Contract, Freelance
 
 ## Specializations and Skills
 - **Specializations:** Software Development
-- **Skills:** PHP, JavaScript, Wordpress, Laravel
+- **Skills:** PHP, Laravel, JavaScript, React, Flutter
 
 ## Personal Information
 - **Current Address:** Birendra Chowk, Kadaghari
